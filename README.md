@@ -16,4 +16,5 @@ These videos are synthetic **deepfake personas** generated in June 2023 using [S
 
 ---
 
-
+## Citation
+`Kaate, I., Salminen, J., Jung, S.-G., Santos, J., Aldous, K., Häyhänen, E., Azem, J., & Jansen, B. J. (2025). Demographics do not matter?: Exploring the impact of gender and ethnicity on users' identification with AI-generated personas. *International Journal of Human-Computer Studies*, 202, 103548. https://doi.org/10.1016/j.ijhcs.2025.103548`
